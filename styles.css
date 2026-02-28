@@ -536,7 +536,7 @@ body {
 
 .rg-image-wrapper.vertical-card {
     aspect-ratio: 3 / 4;
-    max-width: 500px;
+    max-width: 1200px;
     /* ampliar o RG para quase encostar na borda */
     margin: 50 auto;
     display: flex;
@@ -1585,3 +1585,4 @@ a,
     background: var(--color-text-secondary);
 
 }
+
